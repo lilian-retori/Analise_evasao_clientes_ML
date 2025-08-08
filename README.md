@@ -37,7 +37,7 @@ O objetivo é identificar padrões e insights que ajudem a prever e reduzir o ca
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone (https://github.com/lilian-retori/Analise_evasao_clientes_ML/tree/main))
+git clone (https://github.com/lilian-retori/Analise_evasao_clientes_ML.git))
 cd projeto-churn-telecomx
 ```
 
